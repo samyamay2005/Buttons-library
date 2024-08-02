@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+}
+button{
+    border: 0;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #8a7979;
+    transition: all 0.5s ease-in;
+}
+button:hover{
+    box-shadow: 0 8px 25px -10px rgb(0, 0, 0);
+}
+#btn-1{
+    border: 10px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+#btn-rest{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+.btn-1{
+    background-color: burlywood;
+    color: rgb(0, 0, 0);
+}
+.btn-2{
+    background-color: coral;
+color: blue;
+}
+.btn-3{
+color: violet;
+}
+.btn-4{
+    background-color: #8a7979;
+    color: black;
+}
+.btn-dark{
+    background-color: black
+}
